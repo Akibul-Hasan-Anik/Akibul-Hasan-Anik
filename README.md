@@ -9,22 +9,11 @@ I am interested in **IoT, AI, Embedded Systems and Robotics** with a strong focu
 
 ## Languages & Tools
 
-### Programming Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![C](https://img.shields.io/badge/Embedded_C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
-![C++](https://img.shields.io/badge/C++-004482?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge\&logo=dart\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7C600?style=for-the-badge\&logo=javascript\&logoColor=black)
-
-### AI, ML & Data Science
-
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF8C00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge\&logo=keras\&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikitlearn\&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-00599C?style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ### IoT & Embedded Systems
 
