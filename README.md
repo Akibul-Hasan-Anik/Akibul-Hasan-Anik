@@ -1,23 +1,13 @@
-# Hi there, I'm Avik Halder 👋
-
-## IoT & Robotics Engineering Student | AI/ML Enthusiast | Embedded Systems Developer
-
-I am an IoT and Robotics Engineering student with strong interest in **IoT systems, robotics, embedded systems, artificial intelligence, machine learning, deep learning, computer vision, and full-stack development**. I enjoy building practical technology solutions that combine hardware, software, data, and intelligent decision-making.
-
-My work focuses on developing real-world systems using microcontrollers, sensors, machine learning models, backend APIs, and user-friendly web or mobile interfaces.
-
----
+# Hi, I'm Akibul Hasan Anik
 
 ## About Me
 
-* 🎓 Studying **IoT and Robotics Engineering**
-* 🔭 Working on projects related to **IoT, AI, Robotics, Embedded Systems, and Machine Learning**
-* 🌱 Currently learning more about **Deep Learning, Edge AI, Explainable AI, and Full-Stack AI Applications**
-* 💡 Interested in building intelligent systems for **healthcare, agriculture, smart cities, environment monitoring, and automation**
-* 🛠️ I like working with both **hardware and software**
-* 📚 Always exploring new technologies and improving my engineering skills
+A passionate **IoT & Robotics Engineering student** focused on real-world automation solutions and intelligent system design.
 
----
+I am interested in **AI, Embedded Systems, Robotics, and Data Science** with a strong focus on building practical, research-driven solutions for real-world problems.
+
+
+
 
 ## Technical Skills
 
