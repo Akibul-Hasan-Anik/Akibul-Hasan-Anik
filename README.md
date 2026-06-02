@@ -9,7 +9,7 @@ I am interested in **IoT, AI, Embedded Systems and Robotics** with a strong focu
 
 ## Languages & Tools
 
-![C](https://camo.githubusercontent.com/84f6d5bcac0c0809a8c385cabb5b90d26eec99fc2dbfef8fcd8a6bb537af9279/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f632d2532333030353939432e7376673f7374796c653d666c6174266c6f676f3d63266c6f676f436f6c6f723d7768697465)
+![C](https://www.c-language.org/logo.svg)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge\&logo=dart\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7C600?style=for-the-badge\&logo=javascript\&logoColor=black)
