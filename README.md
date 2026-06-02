@@ -7,7 +7,7 @@ I am interested in **IoT, AI, Embedded Systems and Robotics** with a strong focu
 
 
 
-## Technical Skills
+## Languages & Tools
 
 ### Programming Languages
 
