@@ -11,7 +11,7 @@ I am interested in **IoT, AI, Embedded Systems and Robotics** with a strong focu
 
 ![C](<img src="https://www.c-language.org/logo.svg" alt="C" width="50">)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Python](https://img.shields.io/pypi/pyversions/python.org)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge\&logo=dart\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7C600?style=for-the-badge\&logo=javascript\&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
