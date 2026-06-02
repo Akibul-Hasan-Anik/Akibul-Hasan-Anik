@@ -2,9 +2,7 @@
 
 ## About Me
 
-A passionate **IoT & Robotics Engineering student** focused on real-world automation solutions and intelligent system design.
-
-I am interested in **AI, Embedded Systems, Robotics, and Data Science** with a strong focus on building practical, research-driven solutions for real-world problems.
+I am interested in **IoT, AI, Embedded Systems and Robotics** with a strong focus on building practical, research-driven solutions for real-world problems.
 
 
 
