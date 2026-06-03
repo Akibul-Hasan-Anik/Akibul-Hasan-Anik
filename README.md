@@ -36,6 +36,12 @@ I am interested in **IoT, AI, Embedded Systems and Robotics** with a strong focu
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50">
   </kbd>
 </a>
+<a href="https://www.mysql.com/" target="_blank">
+  <kbd>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="50" height="50">
+  </kbd>
+</a>
+
 
 
 
