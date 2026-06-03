@@ -46,6 +46,11 @@ I am interested in **IoT, AI, Embedded Systems and Robotics** with a strong focu
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" width="50" height="50">
   </kbd>
 </a>
+<a href="https://flutter.dev/" target="_blank">
+  <kbd>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="45">
+  </kbd>
+</a>
 
 
 
