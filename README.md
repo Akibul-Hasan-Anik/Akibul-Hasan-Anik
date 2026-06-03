@@ -21,10 +21,11 @@ I am interested in **IoT, AI, Embedded Systems and Robotics** with a strong focu
   <img src="https://cdn-icons-png.flaticon.com/128/226/226777.png" alt="Java" width="50" height="50">
   </kbd>
 </a>
-<a href="https://html.spec.whatwg.org/" target="_blank">
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
   <kbd>
-  <img src="https://www.flaticon.com/free-icon/html_1051328" alt="HTML">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="45">
   </kbd>
 </a>
+
 
 
