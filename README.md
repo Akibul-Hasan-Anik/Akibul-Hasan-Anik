@@ -26,11 +26,17 @@ I am interested in **IoT, AI, Embedded Systems and Robotics** with a strong focu
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="50" height="50">
   </kbd>
 </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+<a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank">
   <kbd>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="50" height="50">
   </kbd>
 </a>
+<a href="https://www.javascript.com/" target="_blank">
+  <kbd>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50">
+  </kbd>
+</a>
+
 
 
 
