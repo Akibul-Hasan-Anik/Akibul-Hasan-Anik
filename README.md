@@ -9,7 +9,7 @@ I am interested in **IoT, AI, Embedded Systems and Robotics** with a strong focu
 
 ## Languages & Tools
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Python](https://www.python.org/static/img/python-logo.png)](https://www.python.org/)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge\&logo=dart\&logoColor=white)](](https://www.python.org/)_-```111                                          1111111111111111111111111111111111111111111111
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7C600?style=for-the-badge\&logo=javascript\&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
