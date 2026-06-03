@@ -141,3 +141,12 @@ I am interested in **IoT, AI, Embedded Systems and Robotics** with a strong focu
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="50" height="50">
   </kbd>
 </a>
+
+## Connect with me
+
+<a href="www.linkedin.com/in/akibul-hasan-anik-49778a341" target="_blank">
+  <kbd>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" height="50">
+  </kbd>
+</a>
+
