@@ -106,11 +106,13 @@ I am interested in **IoT, AI, Embedded Systems and Robotics** with a strong focu
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="PyCharm" width="50" height="50">
   </kbd>
 </a>
-<a href="https://eclipseide.org/" target="_blank">
+<a href="https://netbeans.apache.org/front/main/index.html" target="_blank">
   <kbd>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" alt="Eclipse IDE" width="50" height="50">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" alt="NetBeans IDE" width="50" height="50">
   </kbd>
 </a>
+
+
 
 
 
