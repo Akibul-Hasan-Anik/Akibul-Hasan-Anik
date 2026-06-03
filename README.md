@@ -98,9 +98,10 @@ I am interested in **IoT, AI, Embedded Systems and Robotics** with a strong focu
 </a>
 <a href="https://www.codeblocks.org/" target="_blank">
   <kbd>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeblocks/codeblocks-original.svg" alt="Code::Blocks" width="50" height="50">
+   <img src="https://img.shields.io/badge/Code::Blocks-IDE-blue?style=for-the-badge" alt="Code::Blocks" alt="Code::Blocks width="50" height="50">
   </kbd>
 </a>
+
 
 
 
