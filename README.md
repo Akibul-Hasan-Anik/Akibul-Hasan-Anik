@@ -126,12 +126,11 @@ I am interested in **IoT, AI, Embedded Systems and Robotics** with a strong focu
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50">
   </kbd>
 </a>
-<a href="https://docs.vmware.com/" target="_blank">
+<a href="https://www.vmware.com/info/workstation-pro/evaluation" target="_blank">
   <kbd>
-    <img src="https://cdn.simpleicons.org/vmware/607078" alt="VMware" width="45">
+    <img src="https://cdn.simpleicons.org/vmware/607078" alt="VMware Workstation" width="50" height="50">
   </kbd>
 </a>
-
 
 
 
