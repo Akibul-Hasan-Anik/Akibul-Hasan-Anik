@@ -101,7 +101,11 @@ I am interested in **IoT, AI, Embedded Systems and Robotics** with a strong focu
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino IDE" width="50" height="50">
   </kbd>
 </a>
-
+<a href="https://www.jetbrains.com/pycharm/" target="_blank">
+  <kbd>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="PyCharm" width="50" height="50">
+  </kbd>
+</a>
 
 
 
