@@ -13,7 +13,7 @@ I am interested in **IoT, AI, Embedded Systems and Robotics** with a strong focu
   <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" alt="Python" width="50">
 </a>
 <a href="https://www.c-language.org/" target="_blank">
-  <img src="https://www.c-language.org/logo.svg" alt="C" width="50">
+  <img src="https://www.c-language.org/logo.svg" alt="C" width="40">
 </a>
 
 [![Python](<img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" alt="Python" width="50">)](https://www.python.org/)
