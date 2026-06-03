@@ -4,9 +4,6 @@
 
 I am interested in **IoT, AI, Embedded Systems and Robotics** with a strong focus on building practical, research-driven solutions for real-world problems.
 
-
-
-
 ## Languages & Tools
 
 <a href="https://www.python.org/" target="_blank">
@@ -15,7 +12,9 @@ I am interested in **IoT, AI, Embedded Systems and Robotics** with a strong focu
   </kbd>
 </a>
 <a href="https://www.c-language.org/" target="_blank">
-  <img src="https://www.c-language.org/logo.svg" alt="C" width="60">
+  <kbd>
+  <img src="https://www.c-language.org/logo.svg" alt="C" width="50" height="50">
+  </kbd>
 </a>
 ```html id="b5e3rb"
 <a href="https://docs.python.org/3/" target="_blank">
