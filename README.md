@@ -111,11 +111,6 @@ I am interested in **IoT, AI, Embedded Systems and Robotics** with a strong focu
     <img src="https://cdn.simpleicons.org/apachenetbeanside/1B6AC6" alt="Apache NetBeans" width="50" height="50">
   </kbd>
 </a>
-<a href="https://netbeans.apache.org/kb/docs/" target="_blank">
-  <kbd>
-    <img src="https://img.shields.io/badge/Apache_NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white" alt="Apache NetBeans">
-  </kbd>
-</a>
 
 
 
