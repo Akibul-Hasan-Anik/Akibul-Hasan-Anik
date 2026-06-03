@@ -96,6 +96,12 @@ I am interested in **IoT, AI, Embedded Systems and Robotics** with a strong focu
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="50" height="50">
   </kbd>
 </a>
+<a href="https://www.codeblocks.org/" target="_blank">
+  <kbd>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeblocks/codeblocks-original.svg" alt="Code::Blocks" width="50" height="50">
+  </kbd>
+</a>
+
 
 
 
