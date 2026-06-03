@@ -131,6 +131,12 @@ I am interested in **IoT, AI, Embedded Systems and Robotics** with a strong focu
     <img src="https://cdn.simpleicons.org/vmware/607078" alt="VMware Workstation" width="50" height="50">
   </kbd>
 </a>
+<a href="http://linux.org/" target="_blank">
+  <kbd>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="50" height="50">
+  </kbd>
+</a>
+
 
 
 
