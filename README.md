@@ -18,7 +18,7 @@ I am interested in **IoT, AI, Embedded Systems and Robotics** with a strong focu
 </a>
 <a href="https://www.java.com/en/" target="_blank">
   <kbd>
-  <img src="https://www.c-language.org/logo.svg" alt="C" width="50" height="50">
+  <img src="https://cdn-icons-png.flaticon.com/128/226/226777.png" alt="C" width="50" height="50">
   </kbd>
 </a>
 
