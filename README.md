@@ -9,7 +9,7 @@ I am interested in **IoT, AI, Embedded Systems and Robotics** with a strong focu
 
 ## Languages & Tools
 
-<a href="https://docs.python.org/3/" target="_blank">
+<a href="https://www.python.org/" target="_blank">
   <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" alt="Python" width="50">
 </a>
 
